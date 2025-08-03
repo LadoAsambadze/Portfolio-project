@@ -126,7 +126,7 @@ h3 {
 }
 
 .element {
-  background-color: white;
+  background-color: red;
   width: 160px;
   height: 60px;
   display: flex;
